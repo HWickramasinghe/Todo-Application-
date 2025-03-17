@@ -14,6 +14,6 @@ Database: MySQL
 Build Tool: Maven
 
 
-![toggle](https://github.com/user-attachments/assets/33274c97-e39d-4360-87a0-a5120e62fe54)
-![delete](https://github.com/user-attachments/assets/c3869975-a364-4da9-87d9-b6b56b423ff0)
-![add](https://github.com/user-attachments/assets/3776ff0c-cd39-4aab-8592-3c7a1aab9527)
+![add](https://github.com/user-attachments/assets/699d3d7b-53ad-4837-81da-d19ee4594fed)
+![toggle](https://github.com/user-attachments/assets/6a46b502-cc51-4856-a6ee-e4ae36ec1db9)
+![delete](https://github.com/user-attachments/assets/387eb70a-c4e6-4ff2-b2a0-1618d59d5755)
